@@ -1,6 +1,6 @@
 # GLE Educational Compiler
 
-An educational C/C++-like compiler front end that demonstrates the **GLE (global, local, expression-level) parsing technique** from
+An educational C++-like compiler front end that demonstrates the **GLE (global, local, expression-level) parsing technique** from
 *"A Parsing Technique for Enhancing Compiler Syntax Error Messages for Student Programmers"* (Algaraibeh, Jeffery, Soule, Dousay – IEEE FIE 2024).
 Everything (lexer, parsers, ASTs, error reporting) is written from scratch in Java. No GCC/Clang is invoked.
 
